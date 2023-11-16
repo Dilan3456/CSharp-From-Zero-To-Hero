@@ -7,6 +7,8 @@ namespace BootCamp.Chapter
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Press any key to close the program .....");
+            Console.ReadLine();
         }
     }
 }
